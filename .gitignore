@@ -3,3 +3,5 @@ fastai/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 *.pth
+*.pyc
+**/model/
