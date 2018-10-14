@@ -1,5 +1,6 @@
 fast/
 fastai/
+fastaiold/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 *.pth
