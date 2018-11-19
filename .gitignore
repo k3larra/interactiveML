@@ -6,3 +6,4 @@ fastaiold/
 *.pth
 *.pyc
 **/model/
+**/tmp/
